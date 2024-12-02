@@ -1,0 +1,16 @@
+﻿@model WebPushLineNotify.Models.NotifyViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>LineNotify</h2>
+@using (Html.BeginForm("LineNotify", "Home", FormMethod.Post, new { enctype = "multipart/form-data", @id = "commonform" }))
+{
+}
+@Html.AntiForgeryToken()
+<div class="col-md-12 text-center">
+    <p>Line Notify Message</p>
+    <div class="row">
+        @Html.TextAreaFor(m => m.Message)
+    </div>
+    <button type="submit">Send message</button>
+</div> 
