@@ -42,11 +42,10 @@ namespace WebPushLineNotify.Controllers
             var client = new RestClient("https://notify-api.line.me/api/notify");
             var request = new RestRequest(Method.POST);
             request.AddHeader("Cache-Control", "no-cache");
-            request.AddHeader("Authorization", "Bearer 1f9Gp1HVtoJlB0zNg4bUIOiwcxP2oAnDpkiO5lzvnDE");
+            request.AddHeader("Authorization", "Bearer qPaVKVtT65tfDrbG8rennr8E7v2JRjnlm0z55iKbMvF");
             request.AddHeader("Content-Type", "application/x-www-form-urlencoded");
             request.AddParameter("undefined", "message=" + model.Message, ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
-
 
             return View(model);
         }

@@ -79,7 +79,6 @@ C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\obj\Deb
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\obj\Debug\WebPushLineNotify.pdb
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\RestSharp.dll
-C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\RestSharp.Serializers.SystemTextJson.dll
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.Buffers.dll
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.Memory.dll
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.Numerics.Vectors.dll
@@ -90,7 +89,6 @@ C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\Sys
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.ValueTuple.dll
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\RestSharp.xml
-C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\RestSharp.Serializers.SystemTextJson.xml
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.Buffers.xml
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.Memory.xml
 C:\Users\WiNDOWS 11 PRO\source\repos\WebPushLineNotify\WebPushLineNotify\bin\System.Numerics.Vectors.xml
